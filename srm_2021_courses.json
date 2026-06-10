@@ -9,49 +9,41 @@
         {
           "code": "21LEH101T",
           "title": "Communicative English",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3
         },
         {
           "code": "21MAB101T",
           "title": "Calculus and Linear Algebra",
-          "hours_per_week": { "L": 3, "T": 1, "P": 0 },
           "credits": 4
         },
         {
           "code": "21PYB101J",
           "title": "Physics: Electromagnetic Theory, Quantum Mechanics, Waves and Optics",
-          "hours_per_week": { "L": 3, "T": 1, "P": 2 },
           "credits": 5
         },
         {
           "code": "21MES102L",
           "title": "Engineering Graphics and Design",
-          "hours_per_week": { "L": 0, "T": 0, "P": 4 },
           "credits": 2
         },
         {
           "code": "21EES101T",
           "title": "Electrical and Electronics Engineering",
-          "hours_per_week": { "L": 3, "T": 1, "P": 0 },
           "credits": 4
         },
         {
           "code": "21CYM101T",
           "title": "Environmental Science",
-          "hours_per_week": { "L": 1, "T": 0, "P": 0 },
           "credits": 0
         },
         {
           "code": "21PDM101L",
           "title": "Professional Skills and Practices",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21LEM101T",
           "title": "Constitution of India",
-          "hours_per_week": { "L": 1, "T": 0, "P": 0 },
           "credits": 0
         }
       ]
@@ -63,117 +55,99 @@
         {
           "code": "21LEH102T",
           "title": "Chinese",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21LEH103T",
           "title": "French",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21LEH104T",
           "title": "German",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21LEH105T",
           "title": "Japanese",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21LEH106T",
           "title": "Korean",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21LEH107T",
           "title": "Spanish",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3,
           "category": "Foreign Language Elective"
         },
         {
           "code": "21GNH101J",
           "title": "Philosophy of Engineering",
-          "hours_per_week": { "L": 1, "T": 0, "P": 2 },
           "credits": 2
         },
         {
           "code": "21MAB102T",
           "title": "Advanced Calculus and Complex Analysis",
-          "hours_per_week": { "L": 3, "T": 1, "P": 0 },
           "credits": 4
         },
         {
           "code": "21CYB101J",
           "title": "Chemistry",
-          "hours_per_week": { "L": 3, "T": 1, "P": 2 },
           "credits": 5
         },
         {
           "code": "21BTB103T",
           "title": "Biology",
-          "hours_per_week": { "L": 2, "T": 0, "P": 0 },
           "credits": 2
         },
         {
           "code": "21ASS101T",
           "title": "Applied Engineering Mechanics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21CSS101J",
           "title": "Programming for Problem Solving",
-          "hours_per_week": { "L": 3, "T": 0, "P": 2 },
           "credits": 4
         },
         {
           "code": "21MES101L",
           "title": "Basic Civil and Mechanical Workshop",
-          "hours_per_week": { "L": 0, "T": 0, "P": 4 },
           "credits": 2
         },
         {
           "code": "21PDM102L",
           "title": "General Aptitude",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21GNM101L",
           "title": "Physical and Mental Health using Yoga",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21GNM102L",
           "title": "NSS",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0,
           "category": "Co-curricular Elective"
         },
         {
           "code": "21GNM103L",
           "title": "NCC",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0,
           "category": "Co-curricular Elective"
         },
         {
           "code": "21GNM104L",
           "title": "NSO",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0,
           "category": "Co-curricular Elective"
         }
@@ -186,73 +160,61 @@
         {
           "code": "21MAB201T",
           "title": "Transforms and Boundary Value Problems",
-          "hours_per_week": { "L": 3, "T": 1, "P": 0 },
           "credits": 4
         },
         {
           "code": "21ASC201J",
           "title": "Elements of Aerospace Engineering",
-          "hours_per_week": { "L": 2, "T": 0, "P": 2 },
           "credits": 3
         },
         {
           "code": "21ASC203T",
           "title": "Applied Fluid Mechanics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC205T",
           "title": "Aero Engineering Thermodynamics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC207T",
           "title": "Aircraft Materials and Production Techniques",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21PDH201T",
           "title": "Social Engineering",
-          "hours_per_week": { "L": 2, "T": 0, "P": 0 },
           "credits": 2
         },
         {
           "code": "21ASC221L",
           "title": "Fluid Mechanics Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC223L",
           "title": "Manufacturing Process Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC225L",
           "title": "Aircraft Component Drawing Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21LEM201T",
           "title": "Professional Ethics",
-          "hours_per_week": { "L": 1, "T": 0, "P": 0 },
           "credits": 0
         },
         {
           "code": "21PDM201L",
           "title": "Verbal Reasoning",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21LEM202T",
           "title": "Universal Human Values – Understanding Harmony and Ethical Human Conduct",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3
         }
       ]
@@ -264,55 +226,46 @@
         {
           "code": "21MAB202T",
           "title": "Numerical Methods",
-          "hours_per_week": { "L": 3, "T": 1, "P": 0 },
           "credits": 4
         },
         {
           "code": "21CSC206T",
           "title": "Artificial Intelligence",
-          "hours_per_week": { "L": 2, "T": 1, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC202T",
           "title": "Applied Solid Mechanics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC204T",
           "title": "Incompressible Aerodynamics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC206T",
           "title": "Air Breathing Propulsion",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21DCS201P",
           "title": "Design Thinking and Methodology",
-          "hours_per_week": { "L": 1, "T": 0, "P": 4 },
           "credits": 3
         },
         {
           "code": "21ASC222L",
           "title": "Applied Solid Mechanics Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC224L",
           "title": "Incompressible Aerodynamics Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21PDM202L",
           "title": "Critical and Creative Thinking Skills",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         }
       ]
@@ -324,73 +277,61 @@
         {
           "code": "21ASC301T",
           "title": "Aircraft Structures",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC303T",
           "title": "Compressible Aerodynamics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC305T",
           "title": "Rocket Propulsion",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC307T",
           "title": "Aircraft Performance",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "E",
           "title": "Professional Elective - I",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "O",
           "title": "Open Elective – I",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC321L",
           "title": "Aircraft Structures Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC323L",
           "title": "Compressible Aerodynamics Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC325L",
           "title": "Aerospace Propulsion Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21GNP301L",
           "title": "Community Connect",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21PDM301L",
           "title": "Analytical and Logical Thinking Skills",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21LEM301T",
           "title": "Indian Art Form",
-          "hours_per_week": { "L": 1, "T": 0, "P": 0 },
           "credits": 0
         }
       ]
@@ -402,79 +343,66 @@
         {
           "code": "21CSS303T",
           "title": "Data Science",
-          "hours_per_week": { "L": 2, "T": 0, "P": 0 },
           "credits": 2
         },
         {
           "code": "21ASC302T",
           "title": "Aircraft Systems and Instruments",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC304T",
           "title": "Space Mechanics",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASC306T",
           "title": "Aircraft Stability and Control",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "E",
           "title": "Professional Elective - II",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "O",
           "title": "Open Elective – II",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASP303T",
           "title": "MOOC",
-          "hours_per_week": { "L": 3, "T": 0, "P": 0 },
           "credits": 3
         },
         {
           "code": "21ASP302L",
           "title": "Project",
-          "hours_per_week": { "L": 0, "T": 0, "P": 6 },
           "credits": 0
         },
         {
           "code": "21ASC322L",
           "title": "Aircraft Design Project",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC324L",
           "title": "Aerospace Computational Analysis lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21ASC326L",
           "title": "Aircraft Maintenance Repair Lab",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 1
         },
         {
           "code": "21PDM302L",
           "title": "Employability Skills and Practices",
-          "hours_per_week": { "L": 0, "T": 0, "P": 2 },
           "credits": 0
         },
         {
           "code": "21LEM302T",
           "title": "Indian Traditional Knowledge",
-          "hours_per_week": { "L": 1, "T": 0, "P": 0 },
           "credits": 0
         }
       ]
